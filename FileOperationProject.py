@@ -65,8 +65,6 @@ def rename_file(old_file_path, new_file_name):
 
 import os
 
-# ... (rest of the functions remain the same)
-
 def main():
     file_path = input("Enter the path of the text file: ")
 
